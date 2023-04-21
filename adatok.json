@@ -1,0 +1,34 @@
+{
+  "adatlista": [
+    {
+      "id": 1,
+      "nev": "Loki",
+      "kor": 1,
+      "fajta": "keverék"
+    },
+    {
+      "id": 2,
+      "nev": "Joey",
+      "kor": 2,
+      "fajta": "Németjuhász"
+    },
+    {
+      "id": 3,
+      "nev": "Perec",
+      "kor": 4,
+      "fajta": "Agár"
+    },
+    {
+      "id": 4,
+      "nev": "Niki",
+      "kor": 20,
+      "fajta": "keverék"
+    },
+    {
+      "id": 5,
+      "nev": "Mia",
+      "kor": 5,
+      "fajta": "Staffi"
+    }
+  ]
+}
